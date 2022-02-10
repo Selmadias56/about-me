@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color:  #F8F8F2;
+
+}
+
+* {
+    text-decoration: none;
+
+}
+
+a {
+    color: black;
+}
+
+i {
+    color: darkred;
+    width: 20px;
+    height: 20px;
+}
+.container {
+    margin: 25px 30px 20px 30px;
+}
+h1 {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 18px;
+
+}
+
+p {
+    display: block ;
+line-height: 27px;
+font-size: 18px;
+}
+
+.boxes {
+ margin: 40px 80px;
+
+}
+
+.first-links {
+    line-height: 28px;
+    padding: 0 0 0 10px;
+}
+
+.welcome {
+    text-align: center;
+}
